@@ -6,6 +6,7 @@ This is a web based application developed for kovid related based website in ind
 
 
 **Project Link** - https://zealous-bush-0cf4e8d00.2.azurestaticapps.net/
+**Project demo video Link** - https://youtu.be/Ignu0QkzITI
 
 
 ## Azure technologies used for Project
